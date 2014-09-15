@@ -2,7 +2,7 @@
 
 #### [Download Alfred App](http://www.alfredapp.com/)
 
-These are a list of my most used and valuded alfred workflows. Many of them are not a result of my handywork but my curating. They are ways to make my workflow faster, and more enjoyable. Take if you want, modify at will and if there are bugs PR them back into this repo.
+These are a list of my most used and valued Alfred workflows. Many of them are not a result of my handywork but my curating. They are ways to make my workflow faster, and more enjoyable. Take if you want, modify at will and if there are bugs PR them back into this repo.
 
 ### Atom.io
 
